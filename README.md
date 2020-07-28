@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi I'm Michele 👋
 
-<!--
-**mikyjpeg/mikyjpeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michelepegoraro82/)](https://www.linkedin.com/in/michelepegoraro82/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mikyjpeg/)](https://twitter.com/mikyjpeg/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/mikyjpeg)](https://www.instagram.com/mikyjpeg)
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/4575233/mikyjpeg)](https://stackoverflow.com/users/4575233/mikyjpeg)
+[![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@mikyjpeg)](https://medium.com/@mikyjpeg)
+[![Gmail Badge](https://img.shields.io/badge/-email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:michele.pegoraro@gmail.com)](mailto:michele.pegoraro@gmail.com)
 
-Here are some ideas to get you started:
+I'm a DevOps Manager at IBM, working at Cúram Social Program Management and currently managing cloud adoption. Check out last release of our Cloud [Runbook](https://github.com/IBM/spm-kubernetes).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a DevOps and Agile advocate, always trying to automate the hell out of everything.
+
+Based in Dublin, Ireland but originally from Vicenza, Italy.
