@@ -7,7 +7,7 @@
 [![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@mikyjpeg)](https://medium.com/@mikyjpeg)
 [![Gmail Badge](https://img.shields.io/badge/-email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:michele.pegoraro@gmail.com)](mailto:michele.pegoraro@gmail.com)
 
-I'm a DevOps Manager at IBM, working at Cúram Social Program Management and currently managing cloud adoption. Check out last release of our Cloud [Runbook](https://github.com/IBM/spm-kubernetes).
+I'm a DevOps Manager at Vectra AI.
 
 I'm a DevOps and Agile advocate, always trying to automate the hell out of everything.
 
